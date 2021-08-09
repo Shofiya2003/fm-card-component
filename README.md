@@ -39,7 +39,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-I learn to create CSS layouts and also use shorthand of properties. I learnt accurate use of units rem,vh and vw.
+I learnt systematic way of  creating CSS layouts.I learnt accurate use of units rem,vh and vw.
 
 
 
