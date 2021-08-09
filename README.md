@@ -25,7 +25,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: https://github.com/Shofiya2003/fm-card-component.git
-- Live Site URL: 
+- Live Site URL: https://fm-card-component.vercel.app/
 
 ## My process
 
